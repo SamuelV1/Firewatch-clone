@@ -1,0 +1,49 @@
+.titulo{
+    #MainLink{
+        background-color: #a34300;
+        
+    }
+    margin: 0px;
+    background-color: #210002;
+    display: flex;
+    justify-content: space-between;
+    
+    height: 34px;
+    font-family: 'Roboto Slab', serif;
+   
+    nav{
+        .titulo-header{
+            padding-top: 3px;
+         margin-left: 10px; 
+           font-size: 19px;
+           cursor: pointer;
+       } 
+    }
+    p{
+        margin: 0px;
+        
+    }
+    
+    .botão{
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+       
+        div{
+           
+            padding: 10px;
+            height: 100%;
+            font-size: 16px;
+            display: flex;
+        }
+        div:hover{
+            background-color: #5a1715;
+        }
+    }
+    a{
+        text-decoration: none;
+        color: #ffaf00;
+        margin-top: 5px;
+    }
+    color: #ffaf00;
+}

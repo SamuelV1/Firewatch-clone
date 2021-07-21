@@ -36,7 +36,7 @@ $ yarn Start
 
 ## Live Server
 o live server se encontrar aqui: <a href='https://frosty-mcnulty-7739a2.netlify.app/'>FireWatch</a>
-  
  
-
+ (o efeito parallax toma ums 20/15segundos pra carregar devido o plano free da host se possivel recomendo esperar esses pequenos segundos para aproveitar o site em 100%)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd40a31a-0d7e-4780-88c8-9357f676f6fe/deploy-status)](https://app.netlify.com/sites/fire-base-clonebr/deploys)
 

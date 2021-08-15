@@ -2,6 +2,9 @@
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### OverView:
+
+<img src="https://i.ibb.co/h2vjVZ0/Localhost-Generic-Laptop-2021-08-15-at-5-41-35-PM.jpg" alt="app-image">
 
 ### Descrição:
 O fire-Watch-clone e um nome bem descritivo, e um clone do site do game Firewatch (incluindo o parallax).
